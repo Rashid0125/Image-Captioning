@@ -39,6 +39,6 @@ startseq small girl in the grass plays with fingerpaints in front of white canva
    startseq skier looks at framed pictures in the snow next to trees endseq 
   startseq man on skis looking at artwork for sale in the snow endseq 
               --------------------Predicted--------------------
-            startseq two people are hiking up snowy mountain endseq
+                  startseq two people are hiking up snowy mountain endseq
 
 
